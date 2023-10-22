@@ -1,4 +1,4 @@
-Icon=""
-Name="esterOS 6969.1"
+Icon=
+Name=esterOS 6969.1
 Description="Adds the ability to eat dogs, plus a few bugfixes."
-Script="https://github.com/ester-sources/updates/raw/main/test/update.sh"
+Script=https://github.com/ester-sources/updates/raw/main/test/update.sh
