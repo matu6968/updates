@@ -1,3 +1,4 @@
+[Info]
 Icon=https://raw.githubusercontent.com/ester-sources/updates/main/test/esteros25.svg
 Name=esterOS 6969.1
 Description=Adds the ability to eat dogs, plus a few bugfixes.
