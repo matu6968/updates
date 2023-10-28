@@ -1,6 +1,6 @@
 [Info]
 Icon=https://raw.githubusercontent.com/ester-sources/updates/main/latest/esteros25.svg
-Name=esterOS 25 Delta 5
+Name=esterOS 25 Delta 4
 Description=Includes the new esterOS Updater and new wallpapers. Fixes some bugs!
 Build=EB17291023
 Script=https://github.com/ester-sources/updates/raw/main/latest/update.sh
