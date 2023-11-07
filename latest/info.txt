@@ -1,6 +1,6 @@
 [Info]
 Icon=https://raw.githubusercontent.com/esterOSS/updates/main/latest/esteros25.svg
-Name=esterOS 25 Canary 1
+Name=esterOS 25 Canary 2
 Description=Includes the new esterOS Updater (actually it dosen't have it for now) and new wallpapers. Fixes some bugs!
 Build=EB01291023
-Script=https://github.com/esterOSS/updates/main/latest/update.sh
+Script=https://raw.githubusercontent.com/esterOSS/updates/main/latest/update.sh
