@@ -1,6 +1,6 @@
 [Info]
 Icon=https://raw.githubusercontent.com/esterOSS/updates/main/latest/esteros25.svg
-Name=esterOS 25 Canary 2
-Description=Includes the new esterOS Updater (actually it dosen't have it for now) and new wallpapers. Fixes some bugs!
-Build=EB01291023
+Name=esterOS 25 Release Preview 1
+Description=Includes the new esterOS Updater (for real this time), fixed app drawer icon and neofetch icon is custom!
+Build=[to be filled out by dev]
 Script=https://raw.githubusercontent.com/esterOSS/updates/main/latest/update.sh
